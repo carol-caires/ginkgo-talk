@@ -1,0 +1,6 @@
+mode: atomic
+ginkgo-talk/fibonacci/fibonacci.go:6.28,7.11 1 6
+ginkgo-talk/fibonacci/fibonacci.go:10.2,11.25 2 4
+ginkgo-talk/fibonacci/fibonacci.go:14.2,14.21 1 4
+ginkgo-talk/fibonacci/fibonacci.go:7.11,9.3 1 2
+ginkgo-talk/fibonacci/fibonacci.go:11.25,13.3 1 32
