@@ -11,5 +11,10 @@ func F(n int) (int, error) {
 	for i := 0; i < n; i++ {
 		current, prev = current+prev, current
 	}
+	returnErr()
 	return current, nil
+}
+
+func returnErr() error {
+	return nil
 }
